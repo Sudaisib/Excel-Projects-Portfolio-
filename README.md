@@ -63,7 +63,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Pivot Charts.  
-📖 **Link to Project README**: [Sales Dashboard Guide](#)  
+📖 **Link to Project README**: [Sales Dashboard Guide](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/SuperStore%20US%20Dashboard/README.md)  
 
 ---
 
