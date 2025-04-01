@@ -18,9 +18,11 @@
    - [⚙️ Operational Improvements](#-operational-improvements)  
    - [🍽️ Service Quality Enhancements](#-service-quality-enhancements)  
 7. [🚀 Future Enhancements](#-future-enhancements)  
-8. [📜 Limitations](#-limitations)  
-9. [✍️ Author](#-author)  
-10. [📌 License](#-license)  
+8. [📜 Limitations](#-limitations)
+9. [📞 Interact with the Dashboard](#-interact-with-the-dashboard)  
+10. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)
+11. [✍️ Author](#-author)  
+12. [📌 License](#-license)  
 
 ---
 
@@ -109,7 +111,21 @@ This project analyzes **Airline Passenger Satisfaction** using **Microsoft Excel
 - The analysis is **restricted to available variables**, and external influences may not be fully accounted for.  
 
 ---
+## 📞 Interact with the Dashboard  
+Explore the interactive dashboard with detailed visual insights by clicking the link below:  
+[**View the Dashboard Here**](https://1drv.ms/x/c/476753bb47a7d227/EesrCY6HULtLvwWfHB5tyCUB5mNpPktLEKeBY-Uso951rw?e=eWNgY2)
 
+---
+
+## 🎬 Video Tutorials & Walkthroughs  
+We have provided step-by-step video tutorials demonstrating the key stages of this project. These videos cover:
+- Data Cleaning & Preparation
+- Creating Pivot Tables & Charts
+- Designing Interactive Dashboards
+
+Watch the full walkthrough here: [**Video Tutorials**](#)
+
+---
 ## ✍️ Author  
 **Oladosu Ibrahim Adeniyi**  
 _Data Analyst | Cloud Enthusiast | Business Intelligence Developer_  
