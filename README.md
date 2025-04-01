@@ -12,9 +12,9 @@ This portfolio serves as a practical representation of my **Data Analysis & Busi
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Certifications & Expertise](#-certifications--expertise)**  
 
 2️⃣ **[📚 Projects Overview](#-projects-overview)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 1: Interactive Sales Dashboard](#-project-1-interactive-sales-dashboard)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 2: Financial Budgeting and Forecasting Model](#-project-2-financial-budgeting-and-forecasting-model)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 3: Customer Retention Analysis](#-project-3-customer-retention-analysis)**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 1: SuperStore US Dashboard](#-project-1-superstore-us-dashboard)**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-dashboard)**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 3: Bank Customer Churn Dashboard](#-project-3-bank-customer-churn-dashboard)**  
 
 3️⃣ **[📂 Getting Started](#-getting-started)**  
 
