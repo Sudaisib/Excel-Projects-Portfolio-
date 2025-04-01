@@ -2,7 +2,7 @@
 ![USA Logo](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)
 ---
 
-## 📜 Table of Contents  
+## 📝 Table of Contents  
 1. [📊 Project Overview](#-project-overview)  
 2. [📂 Data Sources](#-data-sources)  
 3. [🛠 Tools & Technologies](#-tools--technologies)  
@@ -14,11 +14,13 @@
 6. [🎯 Recommendations](#-recommendations)  
    - [💰 Revenue Growth Strategies](#-revenue-growth-strategies)  
    - [📢 Customer Retention & Engagement](#-customer-retention--engagement)  
-   - [📦 Inventory & Product Optimization](#-inventory--product-optimization)  
+   - [🛆 Inventory & Product Optimization](#-inventory--product-optimization)  
 7. [🚀 Future Enhancements](#-future-enhancements)  
-8. [📜 Limitations](#-limitations)  
-9. [✍️ Author](#-author)  
-10. [📌 License](#-license)  
+8. [📚 Limitations](#-limitations)  
+9. [📞 Interact with the Dashboard](#-interact-with-the-dashboard)  
+10. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
+11. [✍️ Author](#-author)  
+12. [📌 License](#-license)   
 
 ---
 ## 📊 Project Overview  
@@ -97,6 +99,22 @@ This project provides an in-depth analysis of **SuperStore US** sales performanc
 - Customer satisfaction ratings are not included, limiting insights into service quality.
 
 ---
+## 📞 Interact with the Dashboard  
+Explore the interactive dashboard with detailed visual insights by clicking the link below:  
+[**View the Dashboard Here**](https://1drv.ms/x/c/476753bb47a7d227/EesrCY6HULtLvwWfHB5tyCUB5mNpPktLEKeBY-Uso951rw?e=eWNgY2)
+
+---
+
+## 🎬 Video Tutorials & Walkthroughs  
+We have provided step-by-step video tutorials demonstrating the key stages of this project. These videos cover:
+- Data Cleaning & Preparation
+- Creating Pivot Tables & Charts
+- Designing Interactive Dashboards
+
+Watch the full walkthrough here: [**Video Tutorials**](#)
+
+---
+
 
 ## ✍️ Author  
 **Oladosu Ibrahim Adeniyi**  
@@ -106,6 +124,24 @@ _Data Analyst | Cloud Enthusiast | Business Intelligence Developer_
 
 ## 📌 License  
 This project is available for educational and analytical purposes. Unauthorized commercial use is prohibited.
+
+
+
+
+
+---
+
+
+## ✍️ Author  
+**Oladosu Ibrahim Adeniyi**  
+_Data Analyst | Cloud Enthusiast | Business Intelligence Developer_
+
+---
+
+## 📌 License  
+This project is available for educational and analytical purposes. Unauthorized commercial use is prohibited.
+
+
 
 
 
