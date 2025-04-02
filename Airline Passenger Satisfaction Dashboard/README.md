@@ -1,5 +1,6 @@
 # ✈️ Airline Passenger Satisfaction Dashboard  
-![image](https://github.com/user-attachments/assets/e5697a92-29ba-4482-b7ca-3665c7dab0d7)
+![37191](https://github.com/user-attachments/assets/f2e5e6cb-6a66-4fa2-859d-b27837bfe0bc)
+
 
 
 ---
