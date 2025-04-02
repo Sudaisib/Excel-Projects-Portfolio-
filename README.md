@@ -80,7 +80,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Pivot Charts.  
-📖 **Link to Project README**: [Budgeting Model Guide](#)  
+📖 **Link to Project README**: [Airline Passenger Dashboard Guide](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Airline%20Passenger%20Satisfaction%20Dashboard/README.md)  
 
 ---
 
