@@ -111,7 +111,7 @@ This analysis provides **data-driven insights** to help banks improve customer e
 
 ## 📊 Interact with the Dashboard  
 Explore the **interactive dashboard** for deeper insights:  
-📌 **[View Dashboard Here](#)**
+📌 **[View Dashboard Here](https://1drv.ms/x/c/476753bb47a7d227/ES11AXiDdtRLhm_vAaA_vTcBbmlxit7dOOCxU-haIsvkXA?e=w2PaSE)**
 
 ---
 
@@ -133,7 +133,7 @@ Explore the **interactive dashboard** for deeper insights:
 ---
 
 ## ✍️ Author  
-👤 **Oladosu Sodiq Ibrahim Adeniyi**  
+👤 **Oladosu Ibrahim Adeniyi**  
 📧 Contact: **[Your Email]**  
 🔗 LinkedIn: **[Your LinkedIn Profile]**
 
