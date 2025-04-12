@@ -37,7 +37,7 @@ Hello! I'm **Oladosu Ibrahim**, a **Data Analyst and Business Intelligence Speci
 
 ### 🔹 **Certifications & Expertise:**  
 ✔ 🏆 **Microsoft Certified Data Analyst**  
-✔ 🏆 **Microsoft Excel Expert **  
+✔ 🏆 **Microsoft Excel Expert**  
 ✔ 📊 **Power BI for Business Intelligence & Analysis**  
 ✔ 📂 **SQL Developer**   
 ✔ 📊 **Data Cleaning & Transformation (Power Query, DAX)**    
