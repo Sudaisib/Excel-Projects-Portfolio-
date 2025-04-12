@@ -1,6 +1,5 @@
 # SuperStore US Sales Analysis Dashboard 
-![USA Logo](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)
----
+![stock_shutterstock_373602469](https://github.com/user-attachments/assets/74d08978-46b1-4824-89a5-847c7703068f)
 
 ## 📝 Table of Contents  
 1. [📊 Project Overview](#-project-overview)  
