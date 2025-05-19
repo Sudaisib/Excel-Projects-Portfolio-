@@ -143,7 +143,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 * Advanced visuals: bar charts, waterfall, slicers
 
 🛠 **Technologies Used**: Excel, Power Query, Advanced Charting
-📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/MTN%20Customer%20Churn%20Dashboard)**
+📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/edit/main/MTN%20Churn%20Analysis/README.md)**
 
 ---
 
