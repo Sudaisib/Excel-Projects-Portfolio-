@@ -65,7 +65,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Pivot Charts.  
-📖 **Link to Project README**: [Sales Dashboard Guide](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/SuperStore%20US%20Dashboard/README.md)  
+📖 **Link to Project README**: [SuperStore US Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/SuperStore%20US%20Dashboard/README.md)  
 
 ---
 
@@ -82,7 +82,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Pivot Charts.  
-📖 **Link to Project README**: [Airline Passenger Dashboard Guide](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Airline%20Passenger%20Satisfaction%20Dashboard/README.md)  
+📖 **Link to Project README**: [Airline Passenger Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Airline%20Passenger%20Satisfaction%20Dashboard/README.md)  
 
 ---
 
@@ -99,7 +99,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
-📖 **Link to Project README**: [Customer Retention Guide](#)  
+📖 **Link to Project README**: [Bank Customer Churn Analysis](#https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Bank%20Churn%20Analysis%20Dashboard)  
 
 ---
 ### 🔹 **Project 4: Amazon Sales Dashboard**  
@@ -115,7 +115,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
-📖 **Link to Project README**: [Amazon Sales Dashbaord](#https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Amazon%20Sales%20Performance/README.md)  
+📖 **Link to Project README**: [Amazon Sales Analysis](#https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Amazon%20Sales%20Performance/README.md)  
 
 
 
