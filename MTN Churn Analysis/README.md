@@ -31,7 +31,8 @@
 
 ---
 
-📊 **Project Overview**
+📊 ## **Project Overview**
+
 The **MTN Pulse Churn Analysis & Retention Intelligence Dashboard** is a business intelligence solution designed to uncover key factors driving customer churn and revenue fluctuations within the MTN Pulse segment. Built using Microsoft Excel, this project provides a centralized, interactive environment to monitor retention trends, subscription behaviors, and revenue performance metrics.
 
 The primary objective is to equip MTN decision-makers with **data-backed insights** that strengthen customer retention strategies, highlight untapped revenue streams, and guide product performance improvements. By visualizing customer churn dynamics alongside key demographic and behavioral indicators, the dashboard empowers business leaders to take **proactive, strategic actions** rather than reactive measures.
@@ -100,7 +101,7 @@ Data cleaning and transformation were carried out primarily using **Power Query*
 
 ---
 
-### **Key Insights**
+## **Key Insights**
 
 📉👵 **Churn Is Higher Among Females, Seniors, and Middle-Aged Customers**
 Female customers, along with senior and middle-aged users, show higher churn rates compared to other segments. These groups not only churn more but also represent the highest revenue contributors, making their loss more impactful. The slightly higher churn rate among females compared to males indicates the need for gender- and age-specific retention strategies to protect MTN’s most valuable customer groups.
@@ -131,7 +132,7 @@ Customers who churned contributed a large portion of total revenue. This is a su
 
 ---
 
-### **Recommendations**
+## **Recommendations**
 
 📬 **Improve Customer Feedback Collection**
 Since a majority of churned customers provided no reason for leaving, MTN should implement improved feedback mechanisms—such as real-time exit surveys, follow-up calls, or SMS/WhatsApp surveys—triggered immediately after a cancellation. This will help uncover root causes and inform future retention efforts.
@@ -229,9 +230,5 @@ Coming Soon: A comprehensive walkthrough showing:
 This dashboard and analysis are shared for educational and analytical purposes. Unauthorized commercial use is prohibited.
 
 ---
-
-
-
-
 
 
