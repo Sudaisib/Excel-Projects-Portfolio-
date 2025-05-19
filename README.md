@@ -99,7 +99,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
-📖 **Link to Project README**: [Bank Customer Churn Analysis](#https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Bank%20Churn%20Analysis%20Dashboard)  
+📖 **Link to Project README**: [Bank Customer Churn Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Bank%20Churn%20Analysis%20Dashboard)  
 
 ---
 ### 🔹 **Project 4: Amazon Sales Dashboard**  
