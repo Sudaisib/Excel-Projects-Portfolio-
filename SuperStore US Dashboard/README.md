@@ -3,28 +3,41 @@
 
 ## 📝 Table of Contents  
 1. [📊 Project Overview](#-project-overview)  
-2. [📂 Data Sources](#-data-sources)  
-3. [🛠 Tools & Technologies](#-tools--technologies)  
-4. [🔍 Data Cleaning](#-data-cleaning)  
-5. [📈 Key Insights](#-key-insights)  
+2. [📷 US SuperStore Dashboard Preview](#-us-superstore-dashboard-preview)  
+3. [📂 Data Sources](#-data-sources)  
+4. [🛠 Tools & Technologies](#-tools--technologies)  
+5. [🔍 Data Cleaning](#-data-cleaning)  
+6. [📈 Key Insights](#-key-insights)  
    - [🛒 Sales Performance Overview](#-sales-performance-overview)  
    - [📅 Sales Trends Analysis](#-sales-trends-analysis)  
    - [🏆 Top 10 Customers by Revenue](#-top-10-customers-by-revenue)  
-6. [🎯 Recommendations](#-recommendations)  
+7. [🎯 Recommendations](#-recommendations)  
    - [💰 Revenue Growth Strategies](#-revenue-growth-strategies)  
    - [📢 Customer Retention & Engagement](#-customer-retention--engagement)  
-   - [🛆 Inventory & Product Optimization](#-inventory--product-optimization)
-7. [📚 Limitations](#-limitations)  
-8. [📞 Interact with the Dashboard](#-interact-with-the-dashboard)  
-9. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
-10. [📊 Case Studies & Business Impact](#-case-studies--business-impact)  
-11. [🔮 Future Improvements & Roadmap](#-future-improvements--roadmap)  
-12. [✍️ Author](#-author)  
-13. [📌 License](#-license)    
+   - [🛆 Inventory & Product Optimization](#-inventory--product-optimization)  
+8. [📚 Limitations](#-limitations)  
+9. [📞 Interact with the Dashboard](#-interact-with-the-dashboard)  
+10. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
+11. [📊 Case Studies & Business Impact](#-case-studies--business-impact)  
+12. [🔮 Future Improvements & Roadmap](#-future-improvements--roadmap)  
+13. [✍️ Author](#-author)  
+14. [📌 License](#-license)  
+   
 
 ---
 ## 📊 Project Overview  
 This project provides an in-depth analysis of **SuperStore US** sales performance using **Microsoft Excel** with **Pivot Tables** and **Interactive Visualizations**. The goal is to derive key business insights, identify trends, and recommend strategies for growth and efficiency.  
+
+
+---
+
+## 📷 US SuperStore Dashboard Preview  
+
+### **US Super Store Sales Dashboard**  
+
+![Superstore Sales Dashboard Image](https://github.com/user-attachments/assets/7e5a5543-4047-49ac-ad7c-355c32b2e022)
+
+This dashboard visualizes sales performance, trends, customer segments, and regional analytics for SuperStore US using Microsoft Excel Pivot Tables and Charts. It helps business users quickly grasp revenue distribution, high-performing categories, and seasonal behaviors.
 
 ---
 
