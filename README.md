@@ -102,6 +102,22 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 📖 **Link to Project README**: [Customer Retention Guide](#)  
 
 ---
+### 🔹 **Project 4: Amazon Sales Dashboard**  
+📌 **Description**: This project provides a comprehensive analysis of Bank Customer Churn using Microsoft Excel with Pivot Tables & Visualizations. The dashboard explores **customer demographics, financial behaviors, and churn patterns**, helping to identify key factors influencing customer retention and attrition. The insights derived from this analysis aid in **strategic decision-making, improving customer engagement, and enhancing financial planning for better business performance.** 🚀
+
+🔹 **Key Features:**  
+- **Excel Basic & Advanced Functions** for effective & efficient analysis.  
+- **Pivot Tables & Charts** for interactive data visualization.  
+- **Power Query for data transformation** and cleaning.  
+- **Automation using Power Query for continuous updates**.  
+- **Dynamic slicers and filters** for user-friendly insights.  
+- **Conditional Formatting & KPI indicators**.
+- **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
+
+🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
+📖 **Link to Project README**: [Amazon Sales Dashbaord](#https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Amazon%20Sales%20Performance/README.md)  
+
+
 
 ## 📂 **Getting Started**  
 
