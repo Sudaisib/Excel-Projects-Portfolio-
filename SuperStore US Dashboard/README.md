@@ -169,9 +169,14 @@ By implementing these future improvements, the dashboard will continue to evolve
 
 ---
 
-## ✍️ Author  
-**Oladosu Ibrahim Adeniyi**  
-_Data Analyst | Cloud Enthusiast | Business Intelligence Developer_
+
+## ✍️ Author
+
+**Oladosu Ibrahim Adeniyi**
+*Data Analyst | Cloud Enthusiast | Business Intelligence Developer*
+
+📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197)
 
 ---
 
@@ -182,17 +187,6 @@ This project is available for educational and analytical purposes. Unauthorized 
 
 
 
----
-
-
-## ✍️ Author  
-**Oladosu Ibrahim Adeniyi**  
-_Data Analyst | Cloud Enthusiast | Business Intelligence Developer_
-
----
-
-## 📌 License  
-This project is available for educational and analytical purposes. Unauthorized commercial use is prohibited.
 
 
 
