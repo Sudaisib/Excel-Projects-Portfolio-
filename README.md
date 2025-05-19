@@ -17,13 +17,13 @@ This portfolio serves as a practical representation of my **Data Analysis & Busi
 
 2️⃣ **[📚 Projects Overview](#-projects-overview-🏗️)**
 
- 🔹 **[Project 1: SuperStore US Dashboard](#-project-1-superstore-us-analysis)**
- 🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-analysis)**
+ 🔹 **[Project 1: SuperStore US Analysis](#-project-1-superstore-us-analysis)**
+ 🔹 **[Project 2: Airline Passenger Satisfaction Analysis](#-project-2-airline-passenger-satisfaction-analysis)**
  
- 🔹 **[Project 3: Bank Customer Churn Dashboard](#-project-3-bank-customer-churn-analysis)**
- 🔹 **[Project 4: Amazon Sales Dashboard](#-project-4-amazon-sales-analysis)**
+ 🔹 **[Project 3: Bank Customer Churn Analysis](#-project-3-bank-customer-churn-analysis)**
+ 🔹 **[Project 4: Amazon Sales Analysis](#-project-4-amazon-sales-analysis)**
  
- 🔹 **[Project 5: MTN Customer Churn Dashboard](#-project-5-mtn-customer-churn-analysis)**
+ 🔹 **[Project 5: MTN Customer Churn Analysis](#-project-5-mtn-customer-churn-analysis)**
 
 3️⃣ **[📂 Getting Started](#-getting-started)**
 
