@@ -10,21 +10,22 @@
 2. [📂 Data Sources](#-data-sources)  
 3. [🛠 Tools & Technologies](#-tools--technologies)  
 4. [🔍 Data Cleaning](#-data-cleaning)  
-5. [📊 Key Insights](#-key-insights)  
-   - [👤 Passenger Profiles Dashboard](#-passenger-profiles-dashboard)  
-   - [🛩 Flight Performance & Delay Dashboard](#-flight-performance--delay-dashboard)  
+5. [🖼️ Dashboard Snapshots](#-dashboard-snapshots)  
+   - [👤 Passenger Demographics & Insights](#-passenger-demographics--insights)  
+   - [🛫 Flights Performance & Delays](#-flights-performance--delays)  
    - [😊 Passenger Satisfaction Analysis](#-passenger-satisfaction-analysis)  
-6. [🎯 Recommendations](#-recommendations)  
+6. [📊 Key Insights](#-key-insights)  
+7. [🎯 Recommendations](#-recommendations)  
    - [🌟 Passenger Experience Enhancements](#-passenger-experience-enhancements)  
    - [⚙️ Operational Improvements](#-operational-improvements)  
    - [🍽️ Service Quality Enhancements](#-service-quality-enhancements)  
-7. [🚀 Future Enhancements](#-future-enhancements)  
-8. [📝 Limitations](#-limitations)
-9. [📞 Interact with the Dashboard](#-interact-with-the-dashboard)  
-10. [🎮 Case Studies & Business Impact](#-case-studies--business-impact)  
-11. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
-12. [✍️ Author](#-author)  
-13. [📌 License](#-license)  
+8. [🚀 Future Enhancements](#-future-enhancements)  
+9. [📝 Limitations](#-limitations)  
+10. [📞 Interact with the Dashboard](#-interact-with-the-dashboard)  
+11. [🎮 Case Studies & Business Impact](#-case-studies--business-impact)  
+12. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
+13. [✍️ Author](#-author)  
+14. [📌 License](#-license)  
 
 ---
 
@@ -51,6 +52,26 @@ This project analyzes **Airline Passenger Satisfaction** using **Microsoft Excel
 - Standardized date and numerical formats.  
 - Categorized passengers based on **age group** and **travel type**.  
 - Aggregated satisfaction ratings for better trend analysis.  
+
+---
+
+## 🖼️ Dashboard Snapshots
+
+Below are the key dashboard visuals created for this analysis:
+
+### 👤 Passenger Demographics & Insights  
+
+![Passenger Demographics   Travel Insights](https://github.com/user-attachments/assets/64c7bfc5-c8ec-4357-be46-9b1d31e617db)
+
+
+### 🛫 Flights Performance & Delays  
+
+![Flight Performance   Delays](https://github.com/user-attachments/assets/3ab127b2-0aad-4246-9fd4-897358ce5dfc)
+
+
+### 😊 Passenger Satisfaction Analysis  
+
+![Passenger Satisfaction Analysis](https://github.com/user-attachments/assets/bafd14d8-b4c4-4212-a279-b156e1a946f0)
 
 ---
 
@@ -145,21 +166,19 @@ We have provided step-by-step video tutorials demonstrating the key stages of th
 Watch the full walkthrough here: [**Video Tutorials**](#)
 
 ---
-## ✍️ Author  
-**Oladosu Ibrahim Adeniyi**  
-_Data Analyst | Cloud Enthusiast | Business Intelligence Developer_  
+
+## ✍️ Author
+
+**Oladosu Ibrahim Adeniyi**
+*Data Analyst | Cloud Enthusiast | Business Intelligence Developer*
+
+📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197)
 
 ---
 
 ## 📌 License  
 This project is available for educational and analytical purposes. **Unauthorized commercial use is prohibited**.  
-
----
-
-### 🔗 **Let's Connect!**  
-📧 **Email:** [Your Email]  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
-🐦 **Twitter:** [Your Twitter Handle]  
 
 ---
 
