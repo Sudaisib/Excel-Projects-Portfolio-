@@ -1,177 +1,209 @@
 
-# 📊 **Excel Projects Portfolio** 🚀  
+---
+
+# 📊 **Excel Projects Portfolio** 🚀
 
 Welcome to my **Excel Projects Portfolio!** This repository showcases my expertise in **data analysis, visualization, and automation** using **Microsoft Excel**. Each project is meticulously structured within its dedicated directory, demonstrating my skills in **data analysis, pivot tables, Power Query, and advanced Excel functions**.
 
 This portfolio serves as a practical representation of my **Data Analysis & Business Intelligence** capabilities, with a specialization in **Microsoft Excel, Power BI, and SQL**. Feel free to explore the projects and gain insights into my approach to data-driven decision-making.
 
 ---
-## 📌 **Table of Contents** 🗂️  
 
-1️⃣ **[👨‍💻 About Me](#-about-me)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Certifications & Expertise](#-certifications--expertise)**  
 
-2️⃣ **[📚 Projects Overview](#-projects-overview)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 1: SuperStore US Dashboard](#-project-1-superstore-us-dashboard)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-dashboard)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 3: Bank Customer Churn Dashboard](#-project-3-bank-customer-churn-dashboard)** 
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 4: Amazon Sales Dashboard](#-project-3-bank-customer-churn-dashboard)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **[Project 3: MTN Customer Churn Dashboard](#-project-3-mtn-customer-churn-dashboard)**  
+## 📌 **Table of Contents** 🗂️
 
-3️⃣ **[📂 Getting Started](#-getting-started)**  
+1️⃣ **[👨‍💻 About Me](#-about-me-🌍)**
+ 🔹 **[Certifications & Expertise](#-certifications--expertise)**
 
-4️⃣ **[🛠 Technologies & Tools](#-technologies--tools)**  
+2️⃣ **[📚 Projects Overview](#-projects-overview-🏗️)**
 
-5️⃣ **[🔐 Best Practices in Excel](#-best-practices-in-excel)**  
+ 🔹 **[Project 1: SuperStore US Dashboard](#-project-1-superstore-us-analysis)**
+ 🔹 **[Project 2: Airline Passenger Satisfaction Dashboard](#-project-2-airline-passenger-satisfaction-analysis)**
+ 
+ 🔹 **[Project 3: Bank Customer Churn Dashboard](#-project-3-bank-customer-churn-analysis)**
+ 🔹 **[Project 4: Amazon Sales Dashboard](#-project-4-amazon-sales-analysis)**
+ 
+ 🔹 **[Project 5: MTN Customer Churn Dashboard](#-project-5-mtn-customer-churn-analysis)**
 
-6️⃣ **[🔍 Troubleshooting & Optimization](#-troubleshooting--optimization)**  
+3️⃣ **[📂 Getting Started](#-getting-started)**
 
-7️⃣ **[📜 Documentation & References](#-documentation--references)**  
+4️⃣ **[🛠 Technologies & Tools](#-technologies--tools)**
 
-8️⃣ **[📩 Contact Information](#-contact-information)**  
+5️⃣ **[🔐 Best Practices in Excel](#-best-practices-in-excel)**
 
-📖 **[Jump to Table of Contents](#-table-of-contents)**  
+6️⃣ **[🔍 Troubleshooting & Optimization](#-troubleshooting--optimization)**
+
+7️⃣ **[📜 Documentation & References](#-documentation--references)**
+
+8️⃣ **[📩 Contact Information](#-contact-information)**
+
+📖 **[Jump to Table of Contents](#-table-of-contents-🗂️)**
+
 
 ---
-## 👨‍💻 **About Me** 🌍  
+
+## 👨‍💻 **About Me** 🌍
 
 Hello! I'm **Oladosu Ibrahim**, a **Data Analyst and Business Intelligence Specialist** passionate about **data storytelling, automation, and financial modeling**. I specialize in **Microsoft Excel, Power BI, and SQL**, leveraging advanced analytical techniques to drive business decisions.
 
-### 🔹 **Certifications & Expertise:**  
-✔ 🏆 **Microsoft Certified Data Analyst**  
-✔ 🏆 **Microsoft Excel Expert**  
-✔ 📊 **Power BI for Business Intelligence & Analysis**  
-✔ 📂 **SQL Developer**   
-✔ 📊 **Data Cleaning & Transformation (Power Query, DAX)**    
+### 🔹 **Certifications & Expertise:**
 
-This repository serves as a collection of **real-world Excel projects**, highlighting my experience in **data visualization, data analysis, dashboard design, and reporting automation**. Dive into each project to explore my **Excel expertise!** 📊✨  
+✔ 🏆 **Microsoft Certified Data Analyst**
+✔ 🏆 **Microsoft Excel Expert**
+✔ 📊 **Power BI for Business Intelligence & Analysis**
+
+✔ 📂 **SQL Developer**
+✔ 📊 **Data Cleaning & Transformation (Power Query, DAX)**
+
+This repository serves as a collection of **real-world Excel projects**, highlighting my experience in **data visualization, data analysis, dashboard design, and reporting automation**. Dive into each project to explore my **Excel expertise!** 📊✨
 
 ---
 
-## 📚 **Projects Overview** 🏗️  
+## 📚 **Projects Overview** 🏗️
 
 This section provides an in-depth look into the **Excel-based projects** I’ve worked on, showcasing various techniques, automation, and data analysis methods.
 
-### 🔹 **Project 1: SuperStore US Dashboard**  
+---
+
+### 🔹 **Project 1: SuperStore US Analysis**
+
 📌 **Description**: This project provides a comprehensive analysis of **SuperStore US sales, revenue, profit trends, customer insights, and seasonal performance** using Microsoft Excel with Pivot Tables & Visualizations. The insights help in strategic decision-making, improving profitability, and identifying key growth opportunities. 🚀
 
-🔹 **Key Features:**  
-- **Excel Basic & Advanced Functions** for effective & efficient analysis.  
-- **Pivot Tables & Charts** for interactive data visualization.  
-- **Power Query for data transformation** and cleaning.  
-- **Automation using Power Query for continuous updates**.  
-- **Dynamic slicers and filters** for user-friendly insights.  
-- **Conditional Formatting & KPI indicators**.
-- **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
+🔹 **Key Features:**
 
-🛠 **Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Pivot Charts.  
-📖 **Link to Project README**: [SuperStore US Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/SuperStore%20US%20Dashboard/README.md)  
+* Excel Basic & Advanced Functions
+* Pivot Tables & Charts
+* Power Query for data transformation
+* Dynamic slicers, filters, and automation
+* Conditional Formatting & KPI indicators
+* Advanced charting: Heatmaps, Waterfall Charts
 
----
-
-### 🔹 **Project 2: Airline Passenger Satisfaction Dashboard**  
-📌 **Description**: An interactive Excel dashboard analyzing **passenger demographics, flight performance, and satisfaction levels** to help airlines enhance customer experience and operations. 🚀.
-
-🔹 **Key Features:**  
-- **Excel Basic & Advanced Functions** for effective & efficient analysis.  
-- **Pivot Tables & Charts** for interactive data visualization.  
-- **Power Query for data transformation** and cleaning.  
-- **Automation using Power Query for continuous updates**.  
-- **Dynamic slicers and filters** for user-friendly insights.  
-- **Conditional Formatting & KPI indicators**.
-- **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
-
-🛠 **Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Pivot Charts.  
-📖 **Link to Project README**: [Airline Passenger Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Airline%20Passenger%20Satisfaction%20Dashboard/README.md)  
+🛠 **Technologies Used**: Excel, Power Query, Pivot Tables
+📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/SuperStore%20US%20Dashboard/README.md)**
 
 ---
 
-### 🔹 **Project 3: Bank Customer Churn Dashboard**  
-📌 **Description**: This project provides a comprehensive analysis of Bank Customer Churn using Microsoft Excel with Pivot Tables & Visualizations. The dashboard explores **customer demographics, financial behaviors, and churn patterns**, helping to identify key factors influencing customer retention and attrition. The insights derived from this analysis aid in **strategic decision-making, improving customer engagement, and enhancing financial planning for better business performance.** 🚀
+### 🔹 **Project 2: Airline Passenger Satisfaction Analysis**
 
-🔹 **Key Features:**  
-- **Excel Basic & Advanced Functions** for effective & efficient analysis.  
-- **Pivot Tables & Charts** for interactive data visualization.  
-- **Power Query for data transformation** and cleaning.  
-- **Automation using Power Query for continuous updates**.  
-- **Dynamic slicers and filters** for user-friendly insights.  
-- **Conditional Formatting & KPI indicators**.
-- **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
+📌 **Description**: An interactive dashboard analyzing **passenger demographics, flight performance, and satisfaction metrics**, helping airlines identify areas for improved customer experience and operational efficiency. 🚀
 
-🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
-📖 **Link to Project README**: [Bank Customer Churn Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Bank%20Churn%20Analysis%20Dashboard)  
+🔹 **Key Features:**
+
+* Excel Functions + Power Query
+* Pivot Charts and Tables
+* Dynamic filters and KPIs
+* Heatmaps and advanced visuals
+
+🛠 **Technologies Used**: Excel, Power Query
+📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Airline%20Passenger%20Satisfaction%20Dashboard/README.md)**
 
 ---
-### 🔹 **Project 4: Amazon Sales Dashboard**  
-📌 **Description**: This project provides a comprehensive analysis of Bank Customer Churn using Microsoft Excel with Pivot Tables & Visualizations. The dashboard explores **customer demographics, financial behaviors, and churn patterns**, helping to identify key factors influencing customer retention and attrition. The insights derived from this analysis aid in **strategic decision-making, improving customer engagement, and enhancing financial planning for better business performance.** 🚀
 
-🔹 **Key Features:**  
-- **Excel Basic & Advanced Functions** for effective & efficient analysis.  
-- **Pivot Tables & Charts** for interactive data visualization.  
-- **Power Query for data transformation** and cleaning.  
-- **Automation using Power Query for continuous updates**.  
-- **Dynamic slicers and filters** for user-friendly insights.  
-- **Conditional Formatting & KPI indicators**.
-- **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
+### 🔹 **Project 3: Bank Customer Churn Analysis**
 
-🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
-📖 **Link to Project README**: [Amazon Sales Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Amazon%20Sales%20Performance)  
+📌 **Description**: This dashboard analyzes **customer churn trends, demographic patterns, financial activity**, and their effects on customer retention. The goal is to help banks mitigate churn through data-driven insights. 🚀
 
+🔹 **Key Features:**
 
+* Churn prediction visuals
+* Pivot Tables & Power Query
+* Dynamic filters, slicers
+* Heatmaps, KPI tracking
 
-## 📂 **Getting Started**  
+🛠 **Technologies Used**: Excel, Power Query, Data Visualization
+📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Bank%20Churn%20Analysis%20Dashboard)**
+
+---
+
+### 🔹 **Project 4: Amazon Sales Analysis**
+
+📌 **Description**: This project explores **Amazon's sales performance, product categories, region-based revenue, and seasonal trends**. It offers valuable insights into what drives customer purchases and highlights top-performing products. 🚀
+
+🔹 **Key Features:**
+
+* Sales revenue breakdown by region & product
+* Month-on-month performance tracking
+* Power Query automation for scalable updates
+* Visual storytelling with dashboards
+
+🛠 **Technologies Used**: Excel, Power Query, Pivot Tables, Dynamic Dashboards
+📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Amazon%20Sales%20Performance)**
+
+---
+
+### 🔹 **Project 5: MTN Customer Churn Analysis**
+
+📌 **Description**: This project investigates **customer churn trends for MTN Nigeria**, identifying behavioral and demographic patterns of churners to support improved **customer retention strategies**. 🚀
+
+🔹 **Key Features:**
+
+* Churn segmentation by age, region, and plan type
+* Power Query-driven data transformations
+* Pivot-based KPIs and trend visualizations
+* Advanced visuals: bar charts, waterfall, slicers
+
+🛠 **Technologies Used**: Excel, Power Query, Advanced Charting
+📖 **[View Project](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/MTN%20Customer%20Churn%20Dashboard)**
+
+---
+
+## 📂 **Getting Started**
 
 If any of these projects interest you, navigate to the respective **project directories** and follow the detailed **README instructions** for setup and analysis. Feel free to fork and experiment with the data.
 
 ---
 
-## 🛠 **Technologies & Tools**  
+## 🛠 **Technologies & Tools**
 
-- 📊 **Data Analysis:** Microsoft Excel, Power BI  
-- 📂 **Data Cleaning & Transformation:** Power Query, Pivot Tables  
-- 🔍 **Business Intelligence Tools:** Excel Dashboards, Power BI  
-- 📈 **Data Visualization:** Pivot Chart, Excel Chart 
-
----
-## 🔐 **Best Practices in Excel**  
-
-- Use **structured tables** for better data management.  
-- Optimize large datasets using **Power Query**.  
-- Utilize **named ranges and dynamic formulas** for scalability.  
-- Automate repetitive tasks using **VBA & Macros**.  
-- Apply **data validation and error handling** for accuracy.  
+* 📊 **Data Analysis:** Microsoft Excel, Power BI
+* 📂 **Data Cleaning & Transformation:** Power Query, Pivot Tables
+* 🔍 **Business Intelligence Tools:** Excel Dashboards, Power BI
+* 📈 **Data Visualization:** Pivot Charts, Excel Charts
 
 ---
 
-## 🛠 **Troubleshooting & Optimization**  
+## 🔐 **Best Practices in Excel**
 
-### 🔹 **Common Issues & Fixes:**  
-- **Slow Excel Performance**: Optimize formulas, use Power Query for large datasets.  
-- **Formula Errors (#N/A, #REF!, etc.)**: Use IFERROR(), proper referencing, and structured tables.  
-- **Data Connection Issues**: Check Power Query refresh settings and external data links.  
-
-### 🔹 **Optimization Strategies:**  
-- **Use Excel Tables** for better structured referencing.  
-- **Replace volatile functions (OFFSET, INDIRECT) with INDEX/MATCH**.  
-- **Minimize unnecessary formatting and large dataset calculations**.  
+* Use **structured tables** for better data management
+* Optimize large datasets using **Power Query**
+* Leverage **dynamic formulas and named ranges**
+* Automate tasks with **VBA & Macros**
+* Apply **data validation and robust error handling**
 
 ---
 
-## 📩 **Contact Information**  
+## 🔍 **Troubleshooting & Optimization**
 
-📧 **Email:** [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)  
-🌐 **LinkedIn:** [Oladosu Ibrahim](https://www.linkedin.com/in/oladosu-ibrahim)  
-📂 **GitHub:** [Sudaisib](https://github.com/Sudaisib)  
-✍️ **Blog:** [Ibrahim’s Data Chronicles](https://sudais.hashnode.dev/)  
+### 🔹 Common Issues & Fixes
+
+* **Slow Performance**: Minimize volatile formulas, use Power Query
+* **Formula Errors**: Use IFERROR, structured references
+* **Data Refresh Issues**: Check Power Query settings
+
+### 🔹 Optimization Strategies
+
+* Prefer **Excel Tables** over raw ranges
+* Replace volatile functions with **INDEX/MATCH**
+* Avoid excessive formatting
 
 ---
-## 📜 **License**  
 
-This repository is licensed under the **MIT License**.  
+## 📜 **Documentation & References**
+
+* Microsoft Excel Documentation
+* Power Query Official Docs
+* ExcelJet & Chandoo Tutorials
+* Leila Gharani’s YouTube Channel
+* Microsoft Learn – Data Analysis Tracks
 
 ---
 
-### 🚀 **Thank you for visiting my Excel Projects Portfolio!** 💡  
+## 📩 **Contact Information**
 
-Explore, learn, and feel free to contribute! Happy analyzing! 📊✨
+**Oladosu Ibrahim Adeniyi**
+*Data Analyst | Cloud Enthusiast | Business Intelligence Developer*
 
+📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197)
+
+---
