@@ -115,7 +115,7 @@ This section provides an in-depth look into the **Excel-based projects** I’ve 
 - **Visual storytelling with advanced charts (Heatmaps, Waterfall Charts, etc.)**.
 
 🛠 **Technologies Used:** Microsoft Excel, Power Query, Advanced Formulas, Data Visualization.  
-📖 **Link to Project README**: [Amazon Sales Analysis](#https://github.com/Sudaisib/Excel-Projects-Portfolio-/blob/main/Amazon%20Sales%20Performance/README.md)  
+📖 **Link to Project README**: [Amazon Sales Analysis](https://github.com/Sudaisib/Excel-Projects-Portfolio-/tree/main/Amazon%20Sales%20Performance)  
 
 
 
