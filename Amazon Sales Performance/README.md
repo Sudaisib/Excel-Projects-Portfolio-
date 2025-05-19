@@ -11,14 +11,15 @@
 4. [🛠 Tools & Technologies](#-tools--technologies)  
 5. [📈 KPIs Monitored](#-kpis-monitored)  
 6. [🧹 Data Cleaning](#-data-cleaning)  
-7. [📊 Key Insights](#-key-insights)  
+7. [📈 Key Insights](#-key-insights)  
 8. [🎯 Recommendations](#-recommendations)  
 9. [⚠️ Limitations](#-limitations)  
 10. [🎥 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
 11. [🚀 Future Improvements & Roadmap](#-future-improvements--roadmap)  
 12. [📊 Interact with the Dashboard](#-interact-with-the-dashboard)  
-13. [✍️ Author](#-author)  
-14. [📌 License](#-license)  
+13. [🖼️ Dashboard Preview](#-dashboard-preview)  
+14. [✍️ Author](#-author)  
+15. [📌 License](#-license)  
 
 ---
 
@@ -199,14 +200,24 @@ Explore the Amazon Sales Dashboard built in Microsoft Excel:
 
 ---
 
-## ✍️ Author  
+## 🖼️ Dashboard Preview
 
-**Oladosu Ibrahim Adeniyi**  
-- 💼 Data Analyst | Power BI | SQL | Excel  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahimadeniyisodiq)  
-- 🧠 [Hashnode Blog](https://kingbabz.hashnode.dev)  
-- 💻 [GitHub](https://github.com/KingBabz)  
-- 📬 Contact: Oladosuadeniyi39@gmail.com  
+### 📊 Amazon Sales Dashboard (Excel – 2025)
+
+![Amazon Sales Dashboard Image](https://github.com/user-attachments/assets/bf8592c0-daca-4531-bf91-620b04805848)
+
+
+*A snapshot of the interactive dashboard built with Excel, showcasing revenue performance, product analysis, and fulfillment status.*
+
+---
+
+## ✍️ Author
+
+**Oladosu Ibrahim Adeniyi**
+*Data Analyst | Cloud Enthusiast | Business Intelligence Developer*
+
+📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197)
 
 ---
 
@@ -214,7 +225,6 @@ Explore the Amazon Sales Dashboard built in Microsoft Excel:
 This project is licensed under the MIT License 
 
 
-
-
+---
 
 
