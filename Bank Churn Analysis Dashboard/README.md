@@ -5,20 +5,21 @@
 ---
 
 ## 📌 Table of Contents  
-1. [📊 Project Overview](#-project-overview)  
-2. [📂 Data Sources](#-data-sources)  
-3. [🛠 Tools & Technologies](#-tools--technologies)  
-4. [🔍 Data Cleaning](#-data-cleaning)  
-5. [📈 Key Insights](#-key-insights)  
-   - [👥 Customer Demographics](#-customer-demographics)  
-   - [📉 Bank Churn Insights](#-bank-churn-insights)  
-6. [🎯 Recommendations](#-recommendations)  
-7. [⚠️ Limitations](#-limitations)  
-8. [📊 Interact with the Dashboard](#-interact-with-the-dashboard)  
-9. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)  
-10. [🔮 Future Improvements & Roadmap](#-future-improvements--roadmap)  
-11. [✍️ Author](#-author)  
-12. [📌 License](#-license)  
+1. [📊 Project Overview](#-project-overview)
+2. [📂 Data Sources](#-data-sources)
+3. [🛠 Tools & Technologies](#-tools--technologies)
+4. [🔍 Data Cleaning](#-data-cleaning)
+5. [📸 Dashboard Snapshots](#-dashboard-snapshots)
+6. [📈 Key Insights](#-key-insights)
+   * [👥 Customer Demographics](#-customer-demographics)
+   * [📉 Bank Churn Insights](#-bank-churn-insights)
+7. [🎯 Recommendations](#-recommendations)
+8. [⚠️ Limitations](#-limitations)
+9. [📊 Interact with the Dashboard](#-interact-with-the-dashboard)
+10. [🎬 Video Tutorials & Walkthroughs](#-video-tutorials--walkthroughs)
+11. [🔮 Future Improvements & Roadmap](#-future-improvements--roadmap)
+12. [✍️ Author](#-author)
+13. [📌 License](#-license)
 
 ---
 
@@ -63,6 +64,20 @@ This analysis provides **data-driven insights** to help banks improve customer e
 - **Encoding Categorical Variables**: Transformed text-based data into structured numerical forms.  
 
 ✅ These preprocessing steps ensured an accurate and bias-free analysis.
+
+---
+
+## 📸 Dashboard Snapshots
+
+### 👥 **Customer Demographics Dashboard**
+
+![Customer Demographics Image](https://github.com/user-attachments/assets/950e566a-078a-4d98-b4f1-2970c0f732cd)
+
+
+### 📉 **Customer Churn Insights Dashboard**
+
+![Customer Churn Insights Image](https://github.com/user-attachments/assets/5669a78b-c981-4a7b-a702-a9a4fd8d8892)
+
 
 ---
 
@@ -132,10 +147,11 @@ Explore the **interactive dashboard** for deeper insights:
 
 ---
 
-## ✍️ Author  
-👤 **Oladosu Ibrahim Adeniyi**  
-📧 Contact: **[Your Email]**  
-🔗 LinkedIn: **[Your LinkedIn Profile]**
+## ✍️ Author
+
+**Oladosu Ibrahim Adeniyi**
+📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/oladosu-ibrahim-12427b197](https://www.linkedin.com/in/oladosu-ibrahim-12427b197/)
 
 ---
 
@@ -143,5 +159,4 @@ Explore the **interactive dashboard** for deeper insights:
 This project is licensed under the **MIT License**.
 
 ---
-
 
