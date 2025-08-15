@@ -204,6 +204,7 @@ If any of these projects interest you, navigate to the respective **project dire
 ## 📩 **Contact Information**
 
 **Oladosu Ibrahim Adeniyi**
+
 *Data Analyst | Cloud Enthusiast | Business Intelligence Developer*
 
 📧 **Email**: [oladosuadeniyi39@gmail.com](mailto:oladosuadeniyi39@gmail.com)
